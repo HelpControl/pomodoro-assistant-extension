@@ -1,0 +1,7 @@
+{
+  "name": "hc-pomodoro-assistant-extension",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
